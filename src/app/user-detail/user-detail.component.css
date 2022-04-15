@@ -1,0 +1,9 @@
+li{
+  display: inline-block;
+  background-color: skyblue;
+  width: 25%;
+  padding: 10%;
+  color: white;
+  border: 1px solid gray;
+
+}
